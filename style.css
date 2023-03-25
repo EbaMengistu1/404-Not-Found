@@ -1,0 +1,29 @@
+.found h4 {
+    padding: 18px;
+    margin-left: -19%;
+}
+
+.img img {
+    width: 100%;
+    height: 100%;
+    padding-top: 170px;
+    margin-left: -30%;
+}
+.file h4 {
+    padding-top: 220px;
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: 4px;
+}
+.file p {
+    padding-top: 15px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.btn-box {
+    padding: 20px;
+    margin-top: 15px;
+    background-color: #333;
+    color: #fff;
+    text-transform: capitalize;
+}
